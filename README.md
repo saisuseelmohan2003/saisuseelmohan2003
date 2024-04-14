@@ -1,5 +1,8 @@
+![Profile Image](https://drive.google.com/uc?export=view&id=1U_Tlkem_kqZvbewJbUwNaaewz51j3CJY)
+
 <h1 align="center">Hi 👋, I'm Sai Suseel Mohan Saride</h1>
 <h3 align="center">A Passionate Aspiring Data Analyst from India</h3>
+<img align="right" alt="Data Analysis" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisuseelmohan2003&label=Profile%20views&color=0e75b6&style=flat" alt="saisuseelmohan2003" /> </p>
 
@@ -11,7 +14,7 @@
 
 - 📫 How to reach me **saisuseelmohan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wQ9FcvabjxP9RmUNzFXP082PRiKX-ONM/view?usp=drive_link](https://drive.google.com/file/d/1wQ9FcvabjxP9RmUNzFXP082PRiKX-ONM/view?usp=drive_link)
+- 📄 My Resume : [https://drive.google.com/file/d/1wQ9FcvabjxP9RmUNzFXP082PRiKX-ONM/view?usp=drive_link](https://drive.google.com/file/d/1wQ9FcvabjxP9RmUNzFXP082PRiKX-ONM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
