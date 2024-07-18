@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Courses for Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/saisuseelmohan](https://www.datascienceportfol.io/saisuseelmohan)
+- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Sai-Suseel-Mohan-
+Saride/20138603](https://mavenanalytics.io/profile/Sai-Suseel-Mohan-
+Saride/20138603
 
 - 📫 How to reach me **saisuseelmohan@gmail.com**
 
