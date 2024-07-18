@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Courses for Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/20138603](https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/20138603)
+- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034](https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034)
 
 - 📫 How to reach me **saisuseelmohan@gmail.com**
 
