@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/suseelmohan" target="blank"><img src="https://img.shields.io/twitter/follow/suseelmohan?logo=twitter&style=for-the-badge" alt="suseelmohan" /></a> </p>
 
-- 🌱 I’m currently learning **Courses for Data Analysis**
+- 🌱 I’m currently working as a data analyst at **Reliance Retail - Jiomart**
 
 - 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034](https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034)
 
