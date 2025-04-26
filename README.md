@@ -1,4 +1,4 @@
-![Profile Image](https://drive.google.com/file/d/1lTAhz9zvzP35qsSvZb3MO9P6-ERoaAtQ/view?usp=drivesdk)
+![Profile Image](https://drive.google.com/file/d/1lTAhz9zvzP35qsSvZb3MO9P6-ERoaAtQ)
 
 <h1 align="center">Hi 👋, I'm Sai Suseel Mohan Saride</h1>
 <h3 align="center">A Passionate Aspiring Data Analyst from India</h3>
