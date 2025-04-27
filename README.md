@@ -1,4 +1,4 @@
-![Profile Image](https://drive.google.com/file/d/1lTAhz9zvzP35qsSvZb3MO9P6-ERoaAtQ)
+![Profile Image](https://github.com/saisuseelmohan2003/saisuseelmohan2003/blob/f537b682cc476ccb891500249e60e82b49d1c3c8/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner_20250427_002732_0000.png)
 
 <h1 align="center">Hi 👋, I'm Sai Suseel Mohan Saride</h1>
 <h3 align="center">A Passionate Aspiring Data Analyst from India</h3>
