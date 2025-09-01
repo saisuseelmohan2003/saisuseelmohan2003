@@ -9,17 +9,11 @@
 
 - 🌱 I’m currently working as a data analyst at **Reliance Retail - Jiomart**
 
-- 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034](https://mavenanalytics.io/profile/Sai-Suseel-Mohan-Saride/201386034)
-
 - 📫 How to reach me **saisuseelmohan@gmail.com**
-
-- 📄 My Resume  [https://drive.google.com/file/d/1UfqEY64gTCU52qGOWytCMTXO5hXJ3I5o/view?usp=sharing](https://drive.google.com/file/d/1UfqEY64gTCU52qGOWytCMTXO5hXJ3I5o/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suseelmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suseelmohan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-suseel-mohan-saride-97311459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-suseel-mohan-saride-97311459/" height="30" width="40" /></a>
-<a href="https://instagram.com/saisuseelmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisuseelmohan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
